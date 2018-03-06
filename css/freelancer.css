@@ -36,6 +36,7 @@ hr.star-dark:after {
 
 hr.star-light {
   border-color: #fff;
+  margin: 0 auto; ;
 }
 
 hr.star-light:after {
